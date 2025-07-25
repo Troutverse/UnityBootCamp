@@ -1,2 +1,0 @@
-# UnityBootCamp
-Unity BootCamp Projects
